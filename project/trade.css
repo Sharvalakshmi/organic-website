@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:bisque;
+    background-size:cover ;
+}
+.back1{
+    width: 50%;
+    height: 650px;
+    background: #fff;
+    margin: 0 auto;
+    border: 2px solid skyblue;
+    box-shadow: 0 15px 40px;
+}
+.back1 .lefu{
+    float: left;
+    width: 50%;
+    height: 450px;
+    background-size: cover;
+    box-sizing: border-box;
+}
+.back1 .rigu{
+    float: right;
+    width: 50%;
+    height: 400px;
+    padding-left: 5%;
+    padding-top: 7%;
+    padding-right: 3%;
+    box-sizing: border-box;
+}
+.form1{
+   width: 100%;
+   padding: 80px 40px;
+   box-sizing: border-box;
+   height: 400px;
+   background: #fff;
+}
+.form1 p{
+    color:rgb(185, 135, 235);
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+.form1 input{
+    width: 100%;
+    margin-bottom:20px ;
+}
